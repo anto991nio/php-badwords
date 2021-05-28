@@ -6,5 +6,4 @@ $newWord = str_replace($badWord, "***",$badWord);
 
 echo $paragrafo . " " . $newWord;
 
-
 ?>
